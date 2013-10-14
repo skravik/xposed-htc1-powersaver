@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">Xposed Module: HTC Power Saver Notification Hide</string>
+
+</resources>
